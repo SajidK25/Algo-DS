@@ -1,15 +1,32 @@
 package com.tech99;
 
+import java.util.Arrays;
+
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
         LinkedList linkedList=new LinkedList();
-        linkedList.addFirst(10);
-        linkedList.addFirst(20);
-        linkedList.addFirst(30);
-        linkedList.removeFirst();
-        System.out.println(linkedList);
+//        System.out.println(linkedList.size);
+        linkedList.addLast(10);
+//        System.out.println(linkedList.size);
+
+        linkedList.addLast(20);
+        linkedList.addLast(30);
+        linkedList.addLast(40);
+        linkedList.addLast(50);
+        System.out.println(Arrays.toString(linkedList.toArray()));
+        var kth=linkedList.getKthNodeFromEnd(3);
+        System.out.println(kth);
+//        System.out.println(linkedList.size);
+
+//        linkedList.removeFirst();
+//        System.out.println(linkedList.size);
+//        linkedList.removeLast();
+//        System.out.println(linkedList.size);
+//        linkedList.reverse();
+//        var arr=linkedList.toArray();
+//        System.out.println(Arrays.toString(arr));
 
         /*
         Array numbers = new Array(3);
