@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9511e4d2-5719-4ff4-b852-ac39339804ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/tech99/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tech99/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tech99/StringReverser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo&amp;DS/com/tech99/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo&amp;DS/com/tech99/LinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algo&amp;DS/com/tech99/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo&amp;DS/com/tech99/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tech99/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tech99/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tech99/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tech99/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZcbJY8I0QIDCT82h4AhR67tpMP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -72,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585141257209</updated>
       <workItem from="1585141265598" duration="5328000" />
-      <workItem from="1586159097770" duration="7240000" />
+      <workItem from="1586159097770" duration="15981000" />
     </task>
     <servers />
   </component>
@@ -94,14 +97,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/tech99/Main.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/com/tech99/StringReverser.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/tech99/Main.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="6" />
+          <line>13</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
