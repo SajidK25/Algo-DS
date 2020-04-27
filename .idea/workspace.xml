@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9511e4d2-5719-4ff4-b852-ac39339804ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tech99/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tech99/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tech99/StringReverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tech99/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tech99/ProitityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tech99/QueueReverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tech99/QueueWithTwoStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algo&amp;DS/com/tech99/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo&amp;DS/com/tech99/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/tech99/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/tech99/Main.java" afterDir="false" />
@@ -33,6 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -75,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585141257209</updated>
       <workItem from="1585141265598" duration="5328000" />
-      <workItem from="1586159097770" duration="15981000" />
+      <workItem from="1586159097770" duration="27298000" />
     </task>
     <servers />
   </component>
@@ -102,9 +104,14 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/tech99/ArrayQueue.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/tech99/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="11" />
+          <line>11</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
